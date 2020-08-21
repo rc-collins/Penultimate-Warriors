@@ -29,7 +29,9 @@ body {
   line-height: 1.8;
   min-height: 100vh;
   background:  $page-color;
-
+  background-image: url(/images/pw_bg.png);	
+  background-position: bottom right;
+  background-repeat: no-repeat;
   @media (min-width: $narrow) {
     font-size: 18px;
   };
