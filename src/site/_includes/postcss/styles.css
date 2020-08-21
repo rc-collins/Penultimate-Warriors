@@ -29,8 +29,6 @@ body {
   line-height: 1.8;
   min-height: 100vh;
   background:  $page-color;
-  background-image: url(/images/background.png);
-  background-size: cover;
 
   @media (min-width: $narrow) {
     font-size: 18px;
