@@ -1,6 +1,6 @@
 ---
-title: Couple of Idjits
-subtitle: An episode by episode podcast covering Supernatural
+title: Penultimate Warriors
+subtitle: Radio Warriors watching penultimate episodes
 layout: layouts/base.njk
 ---
 
@@ -16,16 +16,11 @@ layout: layouts/base.njk
 
 ## Feeds
 
-- [iTunes](https://podcasts.apple.com/us/podcast/couple-of-idjits/id1527541590)
-- [Spotify](https://open.spotify.com/show/6Ul9RlsGJhn9DrPJLejToE)
-- [Stitcher](https://www.stitcher.com/podcast/couple-of-idjits)
-- [TuneIn](https://tunein.com/podcasts/Media--Entertainment-Podcasts/Couple-of-Idjits-p1357572/)
 - [XML Feed](http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f)
+
+More Coming Soon
 
 ## Connect
 
-- Facebook Group - [Armchair Hunters](https://www.facebook.com/groups/437248500580788/)
-- Email - [coupleofidjits.podcast@gmail.com](mailto:coupleofidjits.podcast@gmail.com)
-- Penny Samuelson - [Facebook](https://www.facebook.com/penny.samuelsonconderman)
-- Daniel Conderman - [YouTube](https://www.youtube.com/danconderman), [Facebook](https://www.facebook.com/conderman)
+Coming Soon
 
