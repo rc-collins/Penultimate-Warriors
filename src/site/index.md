@@ -16,11 +16,11 @@ layout: layouts/base.njk
 
 ## Feeds
 
-- [XML Feed](http://cast.rocks/hosting/27557/feeds/CAURZ.jpg?e=0df284f)
+- [XML Feed](http://cast.rocks/hosting/27557/feeds/IIJH4.xml)
 
 More Coming Soon
 
 ## Connect
 
-Coming Soon
+[penultimatewarriors@gmail.com](mailto:penultimatewarriors@gmail.com)
 
