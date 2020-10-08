@@ -1,6 +1,6 @@
 ---
 title: Columbo
-subtitle: Episode 0.
+subtitle: Episode 1.
 date: 2020-08-12
 season: Season 1
 tags: ['episode']
