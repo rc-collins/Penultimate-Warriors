@@ -6,6 +6,13 @@
   padding: 0;
 }
 
+body > div > main > iframe{
+  border:1px #333 solid!important;
+-webkit-box-shadow: 3px 3px 5px 2px rgba(0,0,0,0.47);
+-moz-box-shadow: 3px 3px 5px 2px rgba(0,0,0,0.47);
+box-shadow: 3px 3px 5px 2px rgba(0,0,0,0.47);
+}
+
 ::-moz-selection {
   background-color: $text-color;
   color: $page-color;
